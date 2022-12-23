@@ -1,0 +1,9 @@
+# mariadb
+mariadb/data
+mariadb/encryption
+
+# php
+php/log
+
+# .env
+.env
